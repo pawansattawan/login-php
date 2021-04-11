@@ -139,8 +139,7 @@ else{
 </head>
 <body style="text-align: center;">
 <!-- MultiStep Form -->
-<header><img src="images/logo.jpg" width="50px"><p>Success Home Tutors
- Demo by pawan</p></header>
+<header><img src="images/logo.jpg" width="50px"><p>Design by pawan</p></header>
 
 
 
