@@ -60,8 +60,7 @@ if ($passv==1) {
 </head>
 <body style="text-align: center;">
 <!-- MultiStep Form -->
-<header><img src="images/logo.jpg" width="50px"><p>Success Home Tutors
- Demo by pawan</p></header>
+<header><img src="images/logo.jpg" width="50px"><p>Design by pawan</p></header>
 
 <?php echo$br;?><span style="text-align: center; font-size:20px;padding:10px;<?php echo$msg;?>;color:white;background: black;"><?php echo$msgsend;?></span>
 <div class="row">
