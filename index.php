@@ -13,7 +13,6 @@ $filename=$_FILES['image']['name'];
 $filetype=$_FILES['image']['type'];
 $filelen=strlen($_FILES['image']['name']);
 $spassword=password_hash($password, PASSWORD_BCRYPT);
-
 if ($filename=="") {
     $filename="IMG_20200616_090810_446.jpg";
     $filetype='image/png';
